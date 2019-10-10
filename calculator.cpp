@@ -6,7 +6,8 @@ int main()
     char op;
     double num1, num2; //Also OK with float. 
 
-    /*TODO:
+    /*
+    TODO:
     - Add remainder
     - Input more numbers
     - Make the op-input and the numbers together
