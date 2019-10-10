@@ -4,8 +4,14 @@ using namespace std;
 int main()
 {
     char op;
-    double num1, num2;
+    double num1, num2; //Also OK with float. 
 
+    /*TODO:
+    - Add remainder
+    - Input more numbers
+    - Make the op-input and the numbers together
+    - Error handling
+    */
     cout << "Choose if you want to use addition (+), subtraction (-), multiplication (*) or division (/): ";
     cin >> op;
 
