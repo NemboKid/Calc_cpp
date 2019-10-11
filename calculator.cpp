@@ -19,6 +19,7 @@ int main()
     cout << "Enter two numbers: ";
     cin >> num1 >> num2;
 
+    // Better with if else
     switch (op)
     {
           case '+':
