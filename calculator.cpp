@@ -12,6 +12,7 @@ int main()
     - Input more numbers
     - Make the op-input and the numbers together
     - Error handling
+    - Other?
     */
     cout << "Choose if you want to use addition (+), subtraction (-), multiplication (*) or division (/): ";
     cin >> op;
